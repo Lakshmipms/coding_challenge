@@ -20,12 +20,12 @@ Each integer in the list can only be used in one pair.
 2. Navigate to the project directory.
 3. You can import the function in your Python scripts using:
 ```python
-from main import count_pairs_with_sum
+from 2iCode_Challenge import count_pairs_with_sum
 ```
 
 ## Testing the function
 
-Tests for the count_pairs_with_sum function are provided in the iCode_Challenge.py file.
+Tests for the count_pairs_with_sum function are provided in the 2iCode_Challenge.py file.
 To run the tests:
 
 1. Navigate to the project directory in the terminal or command prompt.
